@@ -1,3 +1,5 @@
+### There are some issues in that repository. If you want to use the package, please visit [here](github.com/staycuriousn/ksmm)
+
 # KSMM
 Kernel Support Matrix Machine
 
